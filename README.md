@@ -23,6 +23,8 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Li6oU62sohG8b8uv7MhQRv
 
 This repository is configured to automatically deploy to GitHub Pages when changes are pushed to the `main` branch.
 
+**📖 For detailed deployment instructions and troubleshooting, see [DEPLOYMENT.md](DEPLOYMENT.md)**
+
 ### Enable GitHub Pages
 
 To enable GitHub Pages for this repository:
